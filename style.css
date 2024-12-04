@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1{
+    margin-top: 24px;
+    font-size: 64px;
+    text-align: center;
+    color: #8E26C0;
+}
+
+main{
+    margin-left: 32px;
+}
+
+#chance{
+    width: 565px;
+    height: 86px;
+    background-color: #FFE8E8;
+    margin-bottom: 32px;
+}
+
+#chanceText{
+    padding: 24px 79px 24px 40px;
+    font-weight: 400;
+    font-size: 32px;
+    color: #FF0000;
+}
+
+#advantage{
+    width: 1023px;
+    height: 144px;
+    border-top: 2px solid #02c76e ;
+    border-right: 6px solid #0055FF;
+    border-bottom: 2px solid #7f56d9;
+    border-left: 4px solid #c11574;
+    margin-bottom: 44px;
+}
+
+#advantageText{
+    color: #85647B;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    padding: 24px 0;
+}
+
+
+#sale{
+    width: 1023px;
+    height: 133px;
+    background-color: #FFE8E8;
+    margin-bottom: 60px;
+}
+
+#saleText{
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    padding: 24px 40px;
+}
+
+#off{
+    color: #FF4405;
+    font-size: 40px;
+    border-bottom: 2px solid #FF4405 ;
+}
+
+#shop{
+    width: 1069px;
+    height: 86px;
+    border: 2px solid #3538CD;
+    margin-bottom: 76px;
+}
+
+#shopText{
+    color: #0064CE;
+    font-weight: 400;
+    font-size: 32px;
+    text-align: right;
+    padding: 24px 40px;
+}
+
+#imgOff{
+    width: 556px;
+    height: 347px;
+}
